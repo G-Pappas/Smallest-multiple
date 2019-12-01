@@ -1,0 +1,28 @@
+C:\Users\georg\source\repos\Smallest Number\Smallest Number\bin\Debug\Smallest Number.exe.config
+C:\Users\georg\source\repos\Smallest Number\Smallest Number\bin\Debug\Smallest Number.exe
+C:\Users\georg\source\repos\Smallest Number\Smallest Number\bin\Debug\Smallest Number.pdb
+C:\Users\georg\source\repos\Smallest Number\Smallest Number\obj\Debug\Smallest Number.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Smallest Number\Smallest Number\obj\Debug\Smallest Number.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Smallest Number\Smallest Number\obj\Debug\Smallest Number.exe
+C:\Users\georg\source\repos\Smallest Number\Smallest Number\obj\Debug\Smallest Number.pdb
+D:\Portfolio\C#\Smallest Number\Smallest Number\bin\Debug\Smallest Number.exe.config
+D:\Portfolio\C#\Smallest Number\Smallest Number\bin\Debug\Smallest Number.exe
+D:\Portfolio\C#\Smallest Number\Smallest Number\bin\Debug\Smallest Number.pdb
+D:\Portfolio\C#\Smallest Number\Smallest Number\obj\Debug\Smallest Number.csprojAssemblyReference.cache
+D:\Portfolio\C#\Smallest Number\Smallest Number\obj\Debug\Smallest Number.csproj.CoreCompileInputs.cache
+D:\Portfolio\C#\Smallest Number\Smallest Number\obj\Debug\Smallest Number.exe
+D:\Portfolio\C#\Smallest Number\Smallest Number\obj\Debug\Smallest Number.pdb
+E:\Drive\Portfolio\C#\Smallest Number\Smallest Number\bin\Debug\Smallest Number.exe.config
+E:\Drive\Portfolio\C#\Smallest Number\Smallest Number\bin\Debug\Smallest Number.exe
+E:\Drive\Portfolio\C#\Smallest Number\Smallest Number\bin\Debug\Smallest Number.pdb
+E:\Drive\Portfolio\C#\Smallest Number\Smallest Number\obj\Debug\Smallest Number.csprojAssemblyReference.cache
+E:\Drive\Portfolio\C#\Smallest Number\Smallest Number\obj\Debug\Smallest Number.csproj.CoreCompileInputs.cache
+E:\Drive\Portfolio\C#\Smallest Number\Smallest Number\obj\Debug\Smallest Number.exe
+E:\Drive\Portfolio\C#\Smallest Number\Smallest Number\obj\Debug\Smallest Number.pdb
+E:\Drive\Portfolio\C#\Project Euler\05 Smallest Multiple\Smallest Number\bin\Debug\Smallest Number.exe.config
+E:\Drive\Portfolio\C#\Project Euler\05 Smallest Multiple\Smallest Number\bin\Debug\Smallest Number.exe
+E:\Drive\Portfolio\C#\Project Euler\05 Smallest Multiple\Smallest Number\bin\Debug\Smallest Number.pdb
+E:\Drive\Portfolio\C#\Project Euler\05 Smallest Multiple\Smallest Number\obj\Debug\Smallest Number.csprojAssemblyReference.cache
+E:\Drive\Portfolio\C#\Project Euler\05 Smallest Multiple\Smallest Number\obj\Debug\Smallest Number.csproj.CoreCompileInputs.cache
+E:\Drive\Portfolio\C#\Project Euler\05 Smallest Multiple\Smallest Number\obj\Debug\Smallest Number.exe
+E:\Drive\Portfolio\C#\Project Euler\05 Smallest Multiple\Smallest Number\obj\Debug\Smallest Number.pdb
